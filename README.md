@@ -4,6 +4,9 @@ and examples
 
   * email1.html:
  This template includes a header with a logo and title, a content section with a message and a button, and a footer with copyright information and an unsubscribe link. 
+![email1](https://user-images.githubusercontent.com/122694703/223235878-121d3584-7049-41d3-9514-a9a73033b67c.png)
+
+
 
   * email2.html:
  This email includes basic CSS styling for the body text, headings, links, images, and container. It also includes a media query to adjust the width and font size of the container for smaller screens. This is just a basic example and you can customize the styling to fit your needs.
