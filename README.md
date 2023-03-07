@@ -1,5 +1,5 @@
 # email-temp
-emails templates + css :)
+emails/newsletter templates, HTML/CSS
 
   * email1.html:
  This template includes a header with a logo and title, a content section with a message, and a footer with copyright information and an unsubscribe link. 
