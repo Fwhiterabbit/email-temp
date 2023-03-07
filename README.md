@@ -17,4 +17,4 @@ emails templates + css :)
    This template includes a container with a white background and a border, along with a title, paragraph. The footer at the bottom includes links to unsubscribe and view the email in a browser. Of course, you can customize this template to suit your needs.
    ![email3](https://user-images.githubusercontent.com/122694703/223233783-5688a322-c1e6-4374-8d3b-9f9980158710.png)
 
-  * email4 This template includes a header with a logo, a body with a heading, paragraph, and call-to-action button, and a footer with social media icons and an unsubscribe link. You can customize the colors, fonts, and content
+  * email4.html - *Newsletter* This template includes a header with a logo, a body with a heading, paragraph, and call-to-action button, and a footer with social media icons and an unsubscribe link. You can customize the colors, fonts, and content
