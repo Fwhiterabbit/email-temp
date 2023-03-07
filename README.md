@@ -9,6 +9,7 @@ emails templates + css :)
 
   * email2.html:
  This email includes basic CSS styling for the body text, headings, links, images, and container. It also includes a media query to adjust the width and font size of the container for smaller screens. This is just a basic example and you can customize the styling to fit your needs.
+ 
  ![html2](https://user-images.githubusercontent.com/122694703/223566979-401b389d-3c13-454c-805f-ec6c400238ff.png)
 
 
